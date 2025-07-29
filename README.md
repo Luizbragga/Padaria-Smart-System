@@ -1,21 +1,20 @@
 # Padaria Smart System
 Sistema completo de entregas recorrentes para padarias com clientes fixos e rotas inteligentes.
 
-Oi! Eu sou o Henrique, e estou desenvolvendo este sistema de entregas para padarias com clientes fixos, baseado em uma análise que fiz sobre as necessidades reais das padarias da minha região. O projeto é pensado para resolver problemas reais que vejo acontecer todos os dias: inadimplência, rotas mal organizadas, entregas recorrentes feitas de forma manual e desorganizada, e dificuldade de controle por parte dos gestores.
+Olá! Me chamo Henrique, e estou desenvolvendo este sistema de entregas para padarias com clientes fixos, baseado em uma análise feita por mim sobre as necessidades reais das padarias da minha região. O projeto é pensado para resolver problemas corriqueiros que vejo acontecer todos os dias: inadimplência, rotas mal organizadas, entregas recorrentes feitas de forma manual, desorganizada e com alta dificuldade de controle por parte dos gestores.
 
 
 ## O que esse sistema faz:
 
 - Organiza as entregas diárias automaticamente com base no padrão de cada cliente, como um serviço por assinatura que já existe, mas que hoje é feito de forma manual.
-- Calcula o valor mensal que cada cliente deve pagar, considerando pagamentos parciais ou fora do prazo.
-- Informa quanto o cliente já pagou, quanto ainda deve e se há dívidas acumuladas.
-- Cria rotas de entrega nomeadas (Rota A, B, C...) e exibe no mapa para que cada entregador siga e o gestor acompanhe o processo.
+- Calcula o valor mensal que cada cliente deve pagar, considerando pagamentos parciais ou fora do prazo, informa quanto o cliente ainda tem em débto e dívidas acumuladas.
+- Cria rotas de entrega nomeadas (Rota A, B, C...), exibe no mapa cada uma para que cada entregador siga e o gestor acompanhe o processo.
 - Permite redistribuir rotas caso um entregador não possa comparecer.
 - Painéis personalizados para cada tipo de usuário (Admin, Gerente, Entregador), com permissões específicas para cada função.
 
 Esse é um projeto grande, feito com foco total, estudo diário e muita dedicação.
 
-## Tecnologias que estou usando:
+## Tecnologias usadas:
 - Node.js + Express
 - MongoDB
 - React
@@ -24,9 +23,9 @@ Esse é um projeto grande, feito com foco total, estudo diário e muita dedicaç
 - Axios
 
 ## Status
-Estou construindo isso sozinho, estudando todos os dias e aplicando boas práticas aprendidas com apoio de materiais e referências profissionais.  
+Esse projeto está sendo desenvolido inteiramente por mim, com estudos diários e aplicação de boas práticas aprendidas com apoio de materiais e referências profissionais.  
 Cada funcionalidade é planejada com foco real no dia a dia de operação de uma padaria.
 
 ---
 
-Se quiser acompanhar a evolução, fica à vontade pra seguir e olhar esse repositório!
+Se quiser acompanhar a evolução, fique à vontade pra seguir e olhar esse repositório!
